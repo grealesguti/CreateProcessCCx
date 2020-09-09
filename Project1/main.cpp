@@ -24,7 +24,7 @@ int main() {
     // .exe
     ///////////////////////
     WCHAR cmdArgs_ccx[] = L"D:\\1.PhD\\Calculix\\pinchedcyl\\inp_main.inp";
-    WCHAR cmdArgs_ccx1[] = L"inp_main.inp";
+
 
     // For vlc 1 space and every space is another link
     WCHAR cmdArgs_vlc[] = L" D:\\youtube\\1.mp3\\video1.mp3";
